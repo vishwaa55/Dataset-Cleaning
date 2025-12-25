@@ -57,3 +57,20 @@ It was not collected manually and is used only for **educational data cleaning a
 ## ✍️ Author
 Created as a practice project to understand **data cleaning and preprocessing using Pandas**.
 
+---
+
+## 📈 Monthly Sales Trend
+
+This visualization shows how total café sales vary across different months, helping identify seasonal patterns and high-activity periods throughout the year.
+
+<img width="630" height="470" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/095f5406-25ae-4dd4-9340-6864362cc39d" />
+
+---
+
+## 🍰 Revenue Share by Each Item
+
+This chart highlights the contribution of each item to the total revenue, making it easy to see which products generate the most sales.
+
+<img width="486" height="470" alt="Revenue Share by Item" src="https://github.com/user-attachments/assets/0b0c4c04-69d5-4044-b61b-7c22c57ca795" />
+
+
